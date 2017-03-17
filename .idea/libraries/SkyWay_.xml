@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="SkyWay-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkyWay/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkyWay/jars/libs/msgpack-core-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkyWay/jars/libs/androidasync-2.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkyWay/jars/libs/gson-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkyWay/jars/libs/libjingle_peerconnection.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/SkyWay/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

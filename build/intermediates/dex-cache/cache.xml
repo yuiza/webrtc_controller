@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/SkyWay/jars/libs/msgpack-core-0.7.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3a1666ad13a1a13eb064f0a04839281bf43e273e">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/msgpack-core-0.7.1_5d5993cd292d8d8c1b08e95f9d59a779dbc0fce7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c31258943c6e657a6b294952d46a75a94a6951ce">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bcd49336d640e5d6dde444027d2551c83a61396c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/SkyWay/jars/libs/gson-2.5.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.5_b3d2021ed439681048aca84f166056570ac9ec78/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/SkyWay/jars/libs/androidasync-2.1.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e3d5f6ab2003e31f2cf5ea61b4731a21e9517935">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidasync-2.1.6_7c042091e751944f532a8913204c18470faa1bc2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_c245700f3a900307b6d21eb4907de63624d5da05/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3bf23eaede6ca0d307df271d1efe8c9582e0198a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_3b47d66200211aa705bfb4cfb59e24d561f7250e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e64d876c80e5e7fab26c529ff42854c5bb375dac">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3dae117c760b3bbc1811eff84108b2d29fe40bbd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_97ad5ec0c7b9e49a9dd2a9550ad136c53eb509e1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_74c0e9cd95f4bc8a83e21748f3e2768dc47a3e8c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/SkyWay/jars/libs/libjingle_peerconnection.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e1d6b3159e7313be1b973f9d0531b5821c1e351">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/libjingle_peerconnection_4544756a3a5daf7cab3c943d04bf2d2d9c1dc7bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/SkyWay/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="72c4709eca684a7830c6cd4e4004610e585f6c23">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-SkyWay_8c97c7c0bf0221721dad8b4eacd33bbc4f1162b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/yuiza/AndroidStudioProjects/webrtc_controller/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_33dd362a3dda637c340cba5f201371e17a9d0cfa/classes.dex" />
+    </item>
+
+</items>
